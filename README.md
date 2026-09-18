@@ -6,15 +6,9 @@ Aplikasi web pemesanan tiket pesawat berbasis Laravel. Sistem ini membantu pengg
 
 | Data | Keterangan |
 | --- | --- |
-| Nama | Isi nama lengkap kamu |
-| NIM | Isi NIM kamu |
-| Kelas | Isi kelas kamu |
-| Program Studi | Isi program studi kamu |
-| Institusi | Isi nama kampus/sekolah kamu |
-| Email | Isi email kamu |
-| GitHub | Isi link profil GitHub kamu |
-
-> Ganti bagian biodata di atas dengan data pribadi sebelum membagikan repository.
+| Nama | Naufal Ardra Anabil |
+| Email | [naufalanabil73@gmail.com](mailto:naufalanabil73@gmail.com) |
+| LinkedIn | [linkedin.com/in/naufal-ardra-anabil-9b4974283](https://linkedin.com/in/naufal-ardra-anabil-9b4974283/) |
 
 ## Tentang Project
 
